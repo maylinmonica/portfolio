@@ -73,7 +73,7 @@ const Portfolio = () => {
               {/* Tombol CV */}
             <button
               onClick={() =>
-                window.open('https://drive.google.com/your-cv-link-here', '_blank')
+                window.open('https://drive.google.com/file/d/1MbvLHj-eP7y5_zdPvPJtSTd7eab2gFXr/view?usp=sharing', '_blank')
               }
               className="bg-[#b71c1c] text-white px-6 py-2 rounded-lg shadow-md hover:scale-105 hover:bg-[#8a1313] transition-all flex items-center gap-2"
             >
